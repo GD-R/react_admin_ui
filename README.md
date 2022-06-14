@@ -10,7 +10,7 @@
 
 4. To Build the app for production to the `build` folder - npm build
 
-#About this Challenge - https://www.geektrust.com/challenge/admin-ui
+# About this Challenge - https://www.geektrust.com/challenge/admin-ui
 
 # Problem Statments:
 You work at a startup that is building an interface for admins to see and delete users. The users will be provided via an API. Your job is to build out a working UI. See image below for reference.
